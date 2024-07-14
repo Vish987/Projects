@@ -34,6 +34,8 @@ Welcome to my personal repository of Computer Science projects! This collection 
 
 **Technologies Used:** MATLAB, Python, Matplotlib, NumPy, Pandas
 
+**Poster Link:** http://hdl.handle.net/1903/33132
+
 
 ## Contact
 For any questions or feedback, please reach out to me at vishsubu@gmail.com.
