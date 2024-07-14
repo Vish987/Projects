@@ -10,7 +10,7 @@ Welcome to my personal repository of Computer Science projects! This collection 
 
 * Standardized Q-learning by balancing reward estimation and epsilon-greedy exploration to ensure effective learning, displaying expertise in AI model creation, algorithmic analysis, and object-oriented programming
 
-**Technologies Used:** Python, NumPy
+**Technologies Used:** Python, Random
 
 ### 2. Handwritten Digit Recognition
 
